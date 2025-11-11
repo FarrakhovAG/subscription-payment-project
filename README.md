@@ -73,7 +73,7 @@
 | **Декабрь 2025** | Интеграция оплаты, тестирование |
 | **Январь 2026** | Финальный релиз и презентация на выставке |
 
-Подробно см. [docs/docs/.github/roadmap/Q4_2025_roadmap.md](./rdocs/docs/.github/roadmap/Q4_2025_roadmap.md)  
+Подробно см. [docs/docs/.github/roadmap/Q4_2025_roadmap.md](./docs/docs/.github/roadmap/Q4_2025_roadmap.md)  
 
 ---
 
