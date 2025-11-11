@@ -1,2 +1,2 @@
-# Fitnes-Guru-project
+# Fitness-Guru-project
 Проект "Фитнес-Гуру". SCRUM-подход, 6-недельный цикл разработки.
